@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlueTooth1.8</string>
+    <string name="BlueToothConnect">蓝牙连接</string>
+    <string name="MessageReceive">聊天系统</string>
+    <string name="Map">轨迹查看</string>
+    <string name="goBackMain">返回总界面</string>
+    <string name="find_blue_tooth">查找设备</string>
+    <string name="havefind_blue_tooth">查看已连接设备</string>
+    <string name="open_blue_tooth">打开可见</string>
+    <string name="send">发送</string>
+    <string name="server">服务端</string>
+    <string name="sendServer">客户端</string>
+    <string name="removeconnedted">断开连接</string>
+</resources>
